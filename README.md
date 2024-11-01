@@ -1,5 +1,5 @@
 # Survival Prediction
-This project aims to build a model that is able to predict which passengers survivved the Titanic shipwreck.
+This project builds a simple model that is able to predict which passengers survived the Titanic shipwreck.
 
 ### Setup
 
